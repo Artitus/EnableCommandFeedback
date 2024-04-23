@@ -1,0 +1,4 @@
+name: EnableCommandFeedback
+version: 0.1
+main: mc.io.hurbs.EnableCommandFeedback.EnableCommandFeedbackPlugin
+api-version: 1.13
